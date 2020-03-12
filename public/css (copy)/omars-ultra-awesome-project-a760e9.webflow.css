@@ -573,7 +573,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: url('../images/_DSC0049-min.jpg'), url('../images/_DSC0049-min.jpg'), url('../images/portfolio-2---wide.svg');
+  background-image: url('../images/_DSC0378-2-min.jpg'), url('../images/_DSC0378-2-min.jpg'), url('../images/portfolio-2---wide.svg');
   background-position: 50% 50%, 50% 50%, 0px 0px;
   background-size: cover, cover, cover;
   background-repeat: repeat, repeat, repeat;
@@ -584,7 +584,7 @@ figcaption {
 .intro-header.cc-subpage {
   height: 480px;
   background-color: #000;
-  background-image: url('../images/_DSC0049-min.jpg'), url('../images/example-bg.png'), url('../images/DSC_2341-min.jpg');
+  background-image: url('../images/_DSC0378-2-min.jpg'), url('../images/example-bg.png'), url('../images/DSC_2341-min.jpg');
   background-position: 50% 60%, 0px 0px, 50% 20%;
   background-size: cover, 125px, cover;
   background-repeat: repeat, repeat, repeat;
@@ -858,7 +858,7 @@ figcaption {
   font-weight: 400;
 }
 
-.projects-grid {
+.Portfolio-grid {
   margin-bottom: 60px;
   grid-column-gap: 30px;
   grid-row-gap: 30px;
