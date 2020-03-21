@@ -94,7 +94,7 @@ ul {
 }
 
 li {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 img {
@@ -573,8 +573,8 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: url('../images/_DSC0378-2-min.jpg'), url('../images/_DSC0378-2-min.jpg'), url('../images/portfolio-2---wide.svg');
-  background-position: 50% 50%, 50% 50%, 0px 0px;
+  background-image: url('../images/DSC_0352.jpg'), url('../images/portfolio-2---wide.svg');
+  background-position: 600% 50%, 50% 50%, 200px 0px;
   background-size: cover, cover, cover;
   background-repeat: repeat, repeat, repeat;
   background-attachment: scroll, fixed, scroll;
@@ -584,8 +584,8 @@ figcaption {
 .intro-header.cc-subpage {
   height: 480px;
   background-color: #000;
-  background-image: url('../images/_DSC0378-2-min.jpg'), url('../images/example-bg.png'), url('../images/DSC_2341-min.jpg');
-  background-position: 50% 60%, 0px 0px, 50% 20%;
+  background-image: url('../images/DSC_0352.jpg');
+  background-position: 50% 50%, 0px 0px, 50% 20%;
   background-size: cover, 125px, cover;
   background-repeat: repeat, repeat, repeat;
   background-attachment: fixed, scroll, fixed;
